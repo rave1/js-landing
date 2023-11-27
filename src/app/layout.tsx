@@ -11,6 +11,7 @@ const raleway = Raleway({
 export const metadata: Metadata = {
   title: 'Jakub Sopel',
   description: 'Jakub Sopel Landing page',
+  manifest: 'https://rave1.github.io/js-landing/manifest.webmanifest'
 }
 
 export default function RootLayout({
