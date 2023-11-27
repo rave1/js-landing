@@ -19,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className='bg-base-200'>
       <body className={raleway.className}>{children}</body>
     </html>
   )
