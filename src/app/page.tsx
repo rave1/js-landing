@@ -7,7 +7,7 @@ export default function Home() {
         <div className="hero-content flex-col lg:flex-row-reverse">
           <div className="avatar">
             <div className="w-72 rounded">
-              <img src="/me.jpg" className="max-w-sm rounded-lg shadow-2xl" />
+              <img src="./me.jpg" className="max-w-sm rounded-lg shadow-2xl" />
             </div>
           </div>
           <div className='flex flex-col justify-center items-center'>
@@ -50,7 +50,7 @@ export default function Home() {
                 </a>
               </li>
               <li>
-                <a href='/cv.pdf' target='_blank'>
+                <a href='./cv.pdf' target='_blank'>
                 <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill='white'><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>
                 </a>
               </li>
