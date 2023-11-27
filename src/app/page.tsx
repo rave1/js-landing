@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-      <div className="hero min-h-screen bg-base-200 uppercase p-4 bg-origin-content" style={{backgroundImage: 'url(/jspingwin.svg)', backgroundSize: "contain", backgroundRepeat: "no-repeat"}}>
+      <div className="hero min-h-screen bg-base-200 uppercase p-4 bg-origin-content" style={{backgroundImage: 'url(./jspingwin.svg)', backgroundSize: "contain", backgroundRepeat: "no-repeat"}}>
         <div className="hero-content flex-col lg:flex-row-reverse">
           <div className="avatar">
             <div className="w-72 rounded">
