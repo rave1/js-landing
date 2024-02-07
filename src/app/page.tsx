@@ -12,7 +12,7 @@ export default function Home() {
           <div className='flex flex-col justify-center items-center'>
             <h1 className="text-5xl font-bold">Jakub Sopel</h1>
             <p className="mt-2">Software developer</p>
-            <p className="mt-1">Wannabe sysadmin</p>
+            <p className="mt-1">Wannabe DevOps</p>
             <p className="mt-1">Tech enthusiast</p>
             <ul className="menu menu-horizontal bg-base-200 rounded-box">
               <li>
